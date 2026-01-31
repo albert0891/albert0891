@@ -16,11 +16,11 @@ I am currently exploring the intersection of Generative AI and traditional web a
 ### AI-Powered Smart Job Application Tracker
 A centralized platform to manage job applications and optimize resumes.
 
-**Under the hood**: Built with .NET 9, Angular 18, and PostgreSQL. Features an AI resume rewrite engine using the Google Gemini API and real-time content generation via SignalR.
+<a href="https://offer-magnet-demo.vercel.app/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Demo%20Site-Visit%20Now-blue?style=for-the-badge&logo=vercel" alt="Visit Demo Site">
+</a>
 
-## ⚡ Performance Wins
-- Reduced critical API query latency by 80%+ (30s to <5s) through deep SQL execution plan analysis and DDD implementation.
-- Systematized engineering onboarding, cutting new hire ramp-up time by ~30%.
+**Under the hood**: Built with .NET 9, Angular 18, and PostgreSQL. Features an AI resume rewrite engine using the Google Gemini API and real-time content generation via SignalR.
 
 ## 📫 Get in Touch
 - Email: albert089123@gmail.com
