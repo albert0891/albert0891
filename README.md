@@ -16,7 +16,7 @@ I am currently exploring the intersection of Generative AI and traditional web a
 ### AI-Powered Smart Job Application Tracker
 A centralized platform to manage job applications and optimize resumes.
 
-<a href="https://offer-magnet-demo.vercel.app/" target="_blank" style="text-decoration: none;">
+<a href="https://offer-magnet-demo.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Demo%20Site-Visit%20Now-blue?style=for-the-badge&logo=vercel" alt="Visit Demo Site">
 </a>
 
