@@ -22,7 +22,7 @@ A centralized platform to manage job applications and optimize resumes.
 
 ### AI-Powered Pantry Management System
 
-**UNDER CONSTRUCTION**
+** --UNDER CONSTRUCTION-- **
 
 ## 📫 Get in Touch
 - Email: albert089123@gmail.com
