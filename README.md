@@ -20,6 +20,10 @@ A centralized platform to manage job applications and optimize resumes.
 
 **Under the hood**: Built with .NET 9, Angular 18, and PostgreSQL. Features an AI resume rewrite engine using the Google Gemini API and real-time content generation via SignalR.
 
+### AI-Powered Pantry Management System
+
+**UNDER CONSTRUCTION**
+
 ## 📫 Get in Touch
 - Email: albert089123@gmail.com
 - LinkedIn: [linkedin.com/in/albert-tsou](https://linkedin.com/in/albert-tsou)
