@@ -1,6 +1,6 @@
 # Hi there, I'm Albert! 👋
 
-I'm a Software Engineer based in Princeton, NJ, specializing in .NET and Angular. I love solving complex architectural challenges, optimizing database performance, and building tools that improve developer productivity.
+I'm a Software Engineer based in NJ, specializing in .NET and Angular. I love solving complex architectural challenges, optimizing database performance, and building tools that improve developer productivity.
 
 ## 🔧 Tech Stack
 - **Programming**: C#, TypeScript, SQL, JavaScript, Python, HTML5
