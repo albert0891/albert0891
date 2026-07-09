@@ -25,7 +25,7 @@ A smart kitchen inventory tracker that uses Generative AI to combat food waste.
 
 📌 **Demo Site**: [Visit Now](https://pantry-ai-eta.vercel.app/)
 
-**Under the hood**: A full-stack application built with Next.js 16, React, and Tailwind CSS (featuring a premium Glassmorphism UI). It uses a strictly typed Schema-First **GraphQL** API (Apollo Server) backed by **Prisma** and **PostgreSQL**. The core feature is an AI Chef powered by the **Google Gemini API** that dynamically generates structured recipes based strictly on the user's current pantry inventory and selected "must-use" ingredients.
+**Under the hood**: A full-stack application built with Next.js 16, React, and Tailwind CSS (featuring a premium Glassmorphism UI with mobile-first swipe gestures). It uses a strictly typed Schema-First **GraphQL** API (Apollo Server) backed by **Prisma** and **PostgreSQL**. The core features include an **AI Chef** powered by the **Google Gemini API (3.1 Flash Lite)** that dynamically generates structured recipes using Cross-Board Planning, and a **Smart Voice AI** assistant that auto-fills inventory logs. The entire stack is fortified by strict Zod schema validation, Vitest unit testing, and Husky pre-commit hooks.
 
 ## 📫 Get in Touch
 - Email: albert089123@gmail.com
