@@ -28,5 +28,5 @@ A smart kitchen inventory tracker that uses Generative AI to combat food waste.
 **Under the hood**: A full-stack application built with Next.js 16, React, and Tailwind CSS (featuring a premium Glassmorphism UI with mobile-first swipe gestures). It uses a strictly typed Schema-First **GraphQL** API (Apollo Server) backed by **Prisma** and **PostgreSQL**. The core features include an **AI Chef** powered by the **Google Gemini API (3.1 Flash Lite)** that dynamically generates structured recipes using Cross-Board Planning, and a **Smart Voice AI** assistant that auto-fills inventory logs. The entire stack is fortified by strict Zod schema validation, Vitest unit testing, and Husky pre-commit hooks.
 
 ## 📫 Get in Touch
-- Email: albert089123@gmail.com
+- Email: albert0891@gmail.com
 - LinkedIn: [linkedin.com/in/albert-tsou](https://linkedin.com/in/albert-tsou)
